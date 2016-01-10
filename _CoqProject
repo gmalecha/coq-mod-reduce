@@ -1,0 +1,8 @@
+-I src
+-Q theories ModularRed
+
+src/mod_reduce.ml4
+
+theories/ModReduce.v
+
+test-suite/demo.v
